@@ -1,5 +1,6 @@
 # Google search engine UI with react, react-router6, tailwindcss
 
+![alt text](https://github.com/ganeshsreedharan/google-search-engine-react-ui/blob/master/google-search-ui.png)
 
 
 ## Available Scripts
